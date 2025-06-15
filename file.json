@@ -1,12 +1,10 @@
 [
   {
     "username": "member",
-    "password": "member123",
-    "limit": 30
+    "password": "member123"
   },
   {
     "username": "Rilyzy",
-    "password": "RILXR7",
-    "limit": 1000
+    "password": "RILXR7"
   }
 ]
